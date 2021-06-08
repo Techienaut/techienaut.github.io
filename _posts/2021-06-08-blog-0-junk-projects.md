@@ -5,8 +5,7 @@ author: Anthony Flores (@techienaut)
 date: 2021-06-08 13:00:00 -0500
 categories: [Blog]
 tags: [portfolio]
-image:
-  src: /assets/img/2021-06-08-blog-0-junk-projects/preview.png
+image: /assets/img/2021-06-08-blog-0-junk-projects/preview.png
 ---
 
 # Bonjour!
