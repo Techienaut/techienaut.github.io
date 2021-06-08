@@ -68,6 +68,14 @@ So in General Assembly, we modeled a bookstore, using the MERN stack. On the fro
 
 I don't have the code with me, unfortunately. It might have gotten lost because I didn't migrate it from General Assembly's Github Enteprise to my public Github.
 
+## [5. Blog](https://github.com/techienaut/techienaut.github.io)
+
+![Blog](/assets/img/2021-06-08-blog-0-junk-projects/blog-project.png)
+
+- Github Repo: [https://github.com/techienaut/techienaut.github.io](https://github.com/techienaut/techienaut.github.io)
+
+This is as "meta" as it gets, but starting this blog was a hassle. First of all, I wanted to use Github Pages, and the only static website templating library they accept is [Jekyll](https://jekyllrb.com/). I found a theme called "[Chripy](https://github.com/cotes2020/jekyll-theme-chirpy)". All the configuration is Ruby-like syntax. I've had struggles trying to push and build on Github Actions without errors. Eventually, I got the hang of it. Now all that's required of me from here on out is to create MD markdown files in the _posts directory, with meta-data in the first couple of lines for each post.
+
 # Conclusions/Future Posts
 
 Well, I hope you enjoyed this first blog post. This was sort of a test post--so I'm glad you bared with me. I plan to use this medium to output everything I learn as a developer, and hopefully teach newcomers. I love documentation and helping others. If you have any suggestions, please send me a Tweet or DM on Twitter [@techienaut](https://twitter.com/techienaut). If you're an employer, check out my socials on the left. You can email me or send a connection request with a message on LinkedIn.
