@@ -8,6 +8,8 @@ tags: [portfolio]
 image: /assets/img/2021-06-08-blog-0-junk-projects/preview.png
 ---
 
+![junk projects preview](/assets/img/2021-06-08-blog-0-junk-projects/preview.png)
+
 # Bonjour!
 
 Hey everyone, [@techienaut](https://twitter.com/techienaut) here.
