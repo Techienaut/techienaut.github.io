@@ -2,7 +2,7 @@
 layout: post
 title: "Blog 0: Junk Projects"
 author: Anthony Flores (@techienaut)
-date: 2021-06-08 11:33:00 -0500
+date: 2021-06-08 13:00:00 -0500
 categories: [Blog]
 tags: [portfolio]
 image:
@@ -74,7 +74,7 @@ I don't have the code with me, unfortunately. It might have gotten lost because 
 
 - Github Repo: [https://github.com/techienaut/techienaut.github.io](https://github.com/techienaut/techienaut.github.io)
 
-This is as "meta" as it gets, but starting this blog was a hassle. First of all, I wanted to use Github Pages, and the only static website templating library they accept is [Jekyll](https://jekyllrb.com/). I found a theme called "[Chripy](https://github.com/cotes2020/jekyll-theme-chirpy)". All the configuration is Ruby-like syntax. I've had struggles trying to push and build on Github Actions without errors. Eventually, I got the hang of it. Now all that's required of me from here on out is to create MD markdown files in the _posts directory, with meta-data in the first couple of lines for each post.
+This is as "meta" as it gets, but starting this blog was a hassle. First of all, I wanted to use Github Pages, and the only static website templating library they accept is [Jekyll](https://jekyllrb.com/). I found a theme called "[Chripy](https://github.com/cotes2020/jekyll-theme-chirpy)". All the configuration is Ruby-like syntax. I've had struggles trying to push and build on Github Actions without errors. Eventually, I got the hang of it. Now all that's required of me from here on out is to create MD markdown files in the \_posts directory, with meta-data in the first couple of lines for each post.
 
 # Conclusions/Future Posts
 
