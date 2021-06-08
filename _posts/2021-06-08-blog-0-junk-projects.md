@@ -13,11 +13,11 @@ image:
 
 Hey everyone, [@techienaut](https://twitter.com/techienaut) here.
 
-So this is my "technically" first blog; However, I'm not too proud of it, and I'll explain why later. If your a newcomer who came here to watch a tutorial or hear me rant about some new technology, I suggest going to the next blog post.
+So this is "technically" my first blog; However, I'm not too proud of it, and I'll explain why later. If you're a newcomer who came here to watch a tutorial or hear me rant about some new technology, I suggest going to the next blog post.
 
 If you a recruiter/curious person, then welcome!
 
-I'm currently in the market for IT/Developer jobs. If you'd like to learn more of my history, feel free to check out my socials that are in the lower part of the left navigation bar--Including LinkedIn. Also checkout the [About](/about) section.
+I'm currently in the market for IT/Developer jobs. If you'd like to learn more of my history, feel free to check out my socials that are in the lower part of the left navigation bar--Including LinkedIn. Also checkout the "[About](/about)" section.
 
 # Personal Projects
 
@@ -29,10 +29,10 @@ With that being said, let me introduce you to some projects I've worked on, and 
 
 ## [1. Old Portfolio Site](https://github.com/techienaut/old-portfolio)
 
-![Old Portfolio Site](/assets/img/2021-06-08-blog-0-junk-projects/old-portfolio.png){: .shadow width="90%" }
+![Old Portfolio Site](/assets/img/2021-06-08-blog-0-junk-projects/old-portfolio.png)
 
-- Live Site: https://github.com/techienaut/old-portfolio
-- Github Repo: https://github.com/techienaut/old-portfolio
+- Live Site: [https://github.com/techienaut/old-portfolio](https://github.com/techienaut/old-portfolio)
+- Github Repo: [https://github.com/techienaut/old-portfolio](https://github.com/techienaut/old-portfolio)
 
 This was one of the first major projects I did in General Assembly's Coding Bootcamp. It demonstrates knowledges of HTML, CSS, Bootstrap's Nav Bar and a bit of Javascript.
 
@@ -40,10 +40,12 @@ One of the things I do hate about it though is that I somehow managed to delete 
 
 ## [2. My Anime List Clone](https://elated-hermann-2df736.netlify.com/)
 
-- Live Site: https://elated-hermann-2df736.netlify.com/
-- Github Repo: https://github.com/techienaut/my_anime_list_clone
+![My Anime List Clone](/assets/img/2021-06-08-blog-0-junk-projects/my-anime-clone.png)
 
-I also did this during General Assembly as a major project. This was basically a React project that pulled in a public API for data. There's a site called [myanimelist.net](https://myanimelist.net/) that is like an IMDB for titles of Japanese Anime and Manga (admitedly, I'm partially a weeb ha!). Also there's an API called [jikan.moe](https://jikan.moe/) that pulls data from MyAnimeList and makes if publically available.
+- Live Site: [https://elated-hermann-2df736.netlify.com/](https://elated-hermann-2df736.netlify.com/)
+- Github Repo: [https://github.com/techienaut/my_anime_list_clone](https://github.com/techienaut/my_anime_list_clone)
+
+I also did this during General Assembly as a major project. This was basically a React project that pulled in a public API for data. There's a site called [myanimelist.net](https://myanimelist.net/) that is like an IMDB for titles of Japanese Anime and Manga (admittedly, I'm partially a weeb ha!). Also there's an API called [jikan.moe](https://jikan.moe/) that pulls data from MyAnimeList and makes if publicly available.
 
 On the Web App, your able to filter by categories and see the top anime and manga. Your also able to click on a title and see info for that anime/manga.
 
@@ -51,10 +53,12 @@ I used a number of libraries including [@brainhubeu/react-carousel](https://brai
 
 ## [3. Micro-Services Blog 01](https://github.com/techienaut/Microsrvcs-Blog-01)
 
-- Github Repo: https://github.com/techienaut/Microsrvcs-Blog-01
-- Udemy Course: https://www.udemy.com/course/microservices-with-node-js-and-react/
+![Micro-Services Blog 01](/assets/img/2021-06-08-blog-0-junk-projects/microsrvcs-blog-01.jpeg)
 
-Unlike the other projects I've mentioned, this one is on the back-burner and on my to-do list to finish. Basically, it's similar to a Reddit clone where people can post and comment on those posts. There maybe some sever-side functions, such as providing an querying API for the client-side or having automatic moderation system on comments before they are posted.
+- Github Repo: [https://github.com/techienaut/Microsrvcs-Blog-01](https://github.com/techienaut/Microsrvcs-Blog-01)
+- Udemy Course: [https://www.udemy.com/course/microservices-with-node-js-and-react/](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+
+Unlike the other projects I've mentioned, this one is on the back-burner and on my to-do list to finish. Basically, it's similar to a Reddit clone where people can post and comment on those posts. There maybe some sever-side functions, such as providing a querying API for the client-side or having automatic moderation system on comments before they are posted.
 
 The point of the exercise was to demonstrate spliting backend code into separate Node.js micro-services. There's benefits to this, such as less dependencies between features, and the ability for some feature to function, even when other features are offline/unavailable.
 
@@ -66,4 +70,4 @@ I don't have the code with me, unfortunately. It might have gotten lost because 
 
 # Conclusions/Future Posts
 
-Well I hope you enjoyed this first blog post. This was sort of a test post--so I'm glad you bared with me. I plan to use this medium to output everything I learn as a developer, and hopefully teach newcomers. I love documentation and helping others. If you have any suggestions, please send me a Tweet or DM on Twitter [@techienaut](https://twitter.com/techienaut). If your an employer, feel free to email me or send a connection request with a message on LinkedIn.
+Well, I hope you enjoyed this first blog post. This was sort of a test post--so I'm glad you bared with me. I plan to use this medium to output everything I learn as a developer, and hopefully teach newcomers. I love documentation and helping others. If you have any suggestions, please send me a Tweet or DM on Twitter [@techienaut](https://twitter.com/techienaut). If you're an employer, check out my socials on the left. You can email me or send a connection request with a message on LinkedIn.
