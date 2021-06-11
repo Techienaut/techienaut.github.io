@@ -17,7 +17,7 @@ timezone: America/Chicago
 # --------------------------
 title: >-
   Anthony Flores
-  @techienaut
+  @Techienaut
 
 tagline: DevOps IT Administrator / Full Stack Web Developer # it will display as the sub-title
 
@@ -33,7 +33,7 @@ github:
   username: techienaut # change to your github username
 
 twitter:
-  username: techienaut # change to your twitter username
+  username: Techienaut # change to your twitter username
 
 # linkedin:
 #   username: anthony-s-flores # change to your linkedin name
@@ -45,7 +45,7 @@ social:
   email: anthony-flores@techienaut.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/techienaut # change to your twitter homepage
+    - https://twitter.com/Techienaut # change to your twitter homepage
     - https://github.com/techienaut # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

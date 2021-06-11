@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog 0: Junk Projects"
-author: Anthony Flores (@techienaut)
+author: Anthony Flores (@Techienaut)
 date: 2021-06-08 13:00:00 -0500
 categories: [Blog]
 tags: [portfolio]
@@ -12,7 +12,7 @@ image: /assets/img/2021-06-08-blog-0-junk-projects/preview.png
 
 # Bonjour!
 
-Hey everyone, [@techienaut](https://twitter.com/techienaut) here.
+Hey everyone, [@Techienaut](https://twitter.com/Techienaut) here.
 
 So this is "technically" my first blog; However, I'm not too proud of it, and I'll explain why later. If you're a newcomer who came here to watch a tutorial or hear me rant about some new technology, I suggest going to the next blog post.
 
@@ -33,7 +33,7 @@ With that being said, let me introduce you to some projects I've worked on, and 
 ![Old Portfolio Site](/assets/img/2021-06-08-blog-0-junk-projects/old-portfolio.png)
 
 - Live Site: [https://github.com/techienaut/old-portfolio](https://github.com/techienaut/old-portfolio)
-- Github Repo: [https://github.com/techienaut/old-portfolio](https://github.com/techienaut/old-portfolio)
+- Github Repo: [https://techienaut.github.io/old-portfolio/](https://techienaut.github.io/old-portfolio/)
 
 This was one of the first major projects I did in General Assembly's Coding Bootcamp. It demonstrates knowledges of HTML, CSS, Bootstrap's Nav Bar and a bit of Javascript.
 
@@ -79,4 +79,4 @@ This is as "meta" as it gets, but starting this blog was a hassle. First of all,
 
 # Conclusions/Future Posts
 
-Well, I hope you enjoyed this first blog post. This was sort of a test post--so I'm glad you bared with me. I plan to use this medium to output everything I learn as a developer, and hopefully teach newcomers. I love documentation and helping others. If you have any suggestions, please send me a Tweet or DM on Twitter [@techienaut](https://twitter.com/techienaut). If you're an employer, check out my socials on the left. You can email me or send a connection request with a message on LinkedIn.
+Well, I hope you enjoyed this first blog post. This was sort of a test post--so I'm glad you bared with me. I plan to use this medium to output everything I learn as a developer, and hopefully teach newcomers. I love documentation and helping others. If you have any suggestions, please send me a Tweet or DM on Twitter [@Techienaut](https://twitter.com/Techienaut). If you're an employer, check out my socials on the left. You can email me or send a connection request with a message on LinkedIn.
